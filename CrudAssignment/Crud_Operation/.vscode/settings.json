@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "d:\\java_practice\\JDBC\\mysql-connector-java-8.0.26\\mysql-connector-java-8.0.26.jar"
+        ],
+        "exclude": [
+            "lib/mysql-connector-java-8.0.26.jar"
+        ]
+    }
+}
